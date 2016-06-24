@@ -9,6 +9,6 @@ public class Dragon extends Monstre{
 
 	public void sortDeFeu(){
 		System.out.println("!!! Le feu du dragon !!!");
-		System.out.println("Le dragon a roti");
+		System.out.println("!!! Le dragon a roti son adversaire !!!");
 	}
 }
